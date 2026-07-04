@@ -1,0 +1,11 @@
+C:\Users\SalimanRani\source\SSS\TODOAPI\TODO360Degree.Domain\bin\Debug\net10.0\TODO360Degree.Domain.deps.json
+C:\Users\SalimanRani\source\SSS\TODOAPI\TODO360Degree.Domain\bin\Debug\net10.0\TODO360Degree.Domain.dll
+C:\Users\SalimanRani\source\SSS\TODOAPI\TODO360Degree.Domain\bin\Debug\net10.0\TODO360Degree.Domain.pdb
+C:\Users\SalimanRani\source\SSS\TODOAPI\TODO360Degree.Domain\obj\Debug\net10.0\TODO360Degree.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SalimanRani\source\SSS\TODOAPI\TODO360Degree.Domain\obj\Debug\net10.0\TODO360Degree.Domain.AssemblyInfoInputs.cache
+C:\Users\SalimanRani\source\SSS\TODOAPI\TODO360Degree.Domain\obj\Debug\net10.0\TODO360Degree.Domain.AssemblyInfo.cs
+C:\Users\SalimanRani\source\SSS\TODOAPI\TODO360Degree.Domain\obj\Debug\net10.0\TODO360Degree.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SalimanRani\source\SSS\TODOAPI\TODO360Degree.Domain\obj\Debug\net10.0\TODO360Degree.Domain.dll
+C:\Users\SalimanRani\source\SSS\TODOAPI\TODO360Degree.Domain\obj\Debug\net10.0\refint\TODO360Degree.Domain.dll
+C:\Users\SalimanRani\source\SSS\TODOAPI\TODO360Degree.Domain\obj\Debug\net10.0\TODO360Degree.Domain.pdb
+C:\Users\SalimanRani\source\SSS\TODOAPI\TODO360Degree.Domain\obj\Debug\net10.0\ref\TODO360Degree.Domain.dll

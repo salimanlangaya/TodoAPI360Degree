@@ -1,0 +1,6 @@
+@TODO360Degree_HostAddress = http://localhost:5229
+
+GET {{TODO360Degree_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

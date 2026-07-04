@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="10.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TODO360Degree.Application\TODO360Degree.Application.csproj" />
+    <ProjectReference Include="..\TODO360Degree.Infrastructure\TODO360Degree.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

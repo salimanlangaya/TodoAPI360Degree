@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../TODO360Degree.Application/TODO360Degree.Application.csproj" />
+  <Project Path="../TODO360Degree.Domain/TODO360Degree.Domain.csproj" />
+  <Project Path="../TODO360Degree.Infrastructure/TODO360Degree.Infrastructure.csproj" />
+  <Project Path="../TODO360Degree.Tests/TODO360Degree.Tests.csproj" />
+  <Project Path="TODO360Degree.csproj" />
+</Solution>
